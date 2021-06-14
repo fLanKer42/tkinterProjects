@@ -1,0 +1,10 @@
+<user_id1: group_id2>
+Hi guys, what's up?
+<user_id3: group_id2>
+Nothing much, what about you?
+<user_id4: group_id2>
+I am fucked in the the quarentine!
+<user_id1: group_id3>
+Yooo!
+<user_id2: group_id1>
+What up dogggg
